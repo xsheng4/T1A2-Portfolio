@@ -11,6 +11,17 @@
     --onyx: #343a40ff;
     --eerie-black: #212529ff;
 
+    --melon: #fec5bbff;
+    --pale-dogwood: #fcd5ceff;
+    --misty-rose: #fae1ddff;
+    --seashell: #f8edebff;
+    --platinum: #e8e8e4ff;
+    --platinum-2: #d8e2dcff;
+    --linen: #ece4dbff;
+    --champagne-pink: #ffe5d9ff;
+    --apricot: #ffd7baff;
+    --peach: #fec89aff;
+
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -22,13 +33,13 @@
 body {
     display: flex;
     flex-direction: column;
-    background-color: var(--french-gray-2);
+    background-color: var(--platinum);
     justify-content: center;
     align-items: center;
 }
 
 header {
-    background-color: var(--onyx);
+    background-color: var(--platinum);
     height: 10dvh;
     width: 100%;
     text-align: center;
@@ -36,6 +47,7 @@ header {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+    border-bottom: 1px solid var(--eerie-black);
 
 }
 
@@ -43,30 +55,30 @@ header {
     display: flex;
     justify-content: space-around;
     align-self: flex-end;
-    width: 50%;
+    width: 80%;
     font-size: 1rem;
-    padding: 0.8rem 1.2rem;
+    padding: 2.1rem 1.3rem;
+    font-weight: bold;
+    
 }
 
 #social_links {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center;
-    width: 100%;
-    margin: 1rem 0 1rem;
+    align-items: flex-end;
+    margin: 0.5rem 0 0rem;
     padding-top: 1rem;
-    border-top: 2px black solid;
-    margin-top: auto;
+    border-top: 1px black solid;
 }
 
 a:link {
-    text-decoration: none;
-    color: var(--antiflash-white);
+    text-decoration: solid;
+    color: var(--onyx);
 }
 
 a:hover {
-    background-color: var(--eerie-black);
+    background-color: var(--platinum-2);
 }
 
 
@@ -84,17 +96,16 @@ nav > a:hover {
 
 
 footer {
-    background-color: var(--onyx);
-    height: 5dvh;
-    width: 100dvw;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: block;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0 0 0.5rem;
+    margin-top: auto;
 }
 
 main {
-    min-height: 85dvh;
+    height: 70dvh;
     width: 100dvw;
     margin: 2em;
     display: flex;
@@ -107,8 +118,8 @@ main > * {
     margin: 0.5em;
 }
 
-main > img {
-    height: 20dvh;
+#selfie {
+    height: 10dvh;
     width: 50%;
     background-color: var(--eerie-black);
     color: var(--antiflash-white);
@@ -122,3 +133,4 @@ main > p {
 main > h1 {
     text-align: center;
 }
+
