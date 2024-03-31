@@ -176,3 +176,12 @@ main p:first-child {
 #Main_p {
     margin-bottom: 30px;
 }
+
+/* Desktop styling */
+
+@media only screen and (min-width: 1000px) {
+    #Dev_Img {
+        width: 25%;
+        height: 45%;
+    }
+}
