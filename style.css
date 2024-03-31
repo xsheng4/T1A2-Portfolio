@@ -81,6 +81,9 @@ a:hover {
     background-color: var(--platinum-2);
 }
 
+a:visited {
+    color: var(--onyx);
+}
 
 /* nav > a {
     text-decoration: none;
