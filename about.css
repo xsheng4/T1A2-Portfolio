@@ -47,7 +47,7 @@ main {
 
 #Me_Img {
     max-width: 100%;
-    height: auto;
+    height: 50dvh;
     overflow: scroll;
     margin-top: 10px;
 }
