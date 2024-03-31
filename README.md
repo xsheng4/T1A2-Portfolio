@@ -1,7 +1,7 @@
 # T1A2-Portfolio
 
 Website URL:
-https://eclectic-queijadas-8daae2.netlify.app/
+https://xinsheng-portfolio.netlify.app/
 
 Github Repository:
 https://github.com/xsheng4/T1A2-Portfolio
