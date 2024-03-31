@@ -22,7 +22,8 @@ The portfolio contains the following features and functions:
 ![Desktop Wireframes](https://github.com/xsheng4/T1A2-Portfolio/assets/161588293/ccbd27b9-166c-44ae-a999-5e7f083618d7)
 
 ## Sitemap
-![T1A2 Portfolio sitemap drawio](https://github.com/xsheng4/T1A2-Portfolio/assets/161588293/5c1b4378-6cd6-4082-81b0-485ec45ee210)
+![Portfolio Sitemap](https://github.com/xsheng4/T1A2-Portfolio/assets/161588293/aef122b7-083c-42d3-953f-9168c39c7f04)
+
 
 ## Target Audience
 The target audience for my portfolio can range from future employers who want to see my professional career and journey as well as my skills, to friends and colleagues who are interested in my skills.
