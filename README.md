@@ -6,6 +6,9 @@ https://eclectic-queijadas-8daae2.netlify.app/
 Github Repository:
 https://github.com/xsheng4/T1A2-Portfolio
 
+Youtube presentation link:
+https://youtu.be/4hvdeLmThJ8
+
 ## Purpose
 The purpose of this portfolio is to present myself as a developer where my online porfolio can be viewed by employers, colleagues, peers and anyone else that would be interested. It is also a place where people can learn more about me such as my interests and skills. It also gives everyone a chance to contact me if they have any questions or want to learn more about me.
 
